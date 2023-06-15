@@ -1,14 +1,5 @@
 # Projeto-Web-Site-Pet
 
-
-
-
-
-
-
-
-
-
 <!DOCTYPE html>
 
 <html lang="pt-br">
