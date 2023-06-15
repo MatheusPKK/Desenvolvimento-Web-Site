@@ -1,6 +1,6 @@
 # Projeto-Web-Site-Pet
 
-<!DOCTYPE html>
+main <!DOCTYPE html>
 
 <html lang="pt-br">
 <head>
